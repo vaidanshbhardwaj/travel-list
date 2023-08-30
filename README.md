@@ -1,4 +1,8 @@
-# Getting Started with Create React App
+# Travel List
+## Travel List course project made amidst The Ultimate React course by Jonas Schmedtmann.
+![localhost_3000_](https://github.com/vaidanshbhardwaj/travel-list/assets/94763871/89d50afb-65b5-492a-9ebf-1c98a1967f3a)
+
+## Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
